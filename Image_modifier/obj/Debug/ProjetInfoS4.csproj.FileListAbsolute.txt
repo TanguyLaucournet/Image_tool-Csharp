@@ -1,0 +1,14 @@
+C:\Users\tangu\source\repos\ProjetInfoS4\ProjetInfoS4\bin\Debug\ProjetInfoS4.exe.config
+C:\Users\tangu\source\repos\ProjetInfoS4\ProjetInfoS4\bin\Debug\ProjetInfoS4.exe
+C:\Users\tangu\source\repos\ProjetInfoS4\ProjetInfoS4\bin\Debug\ProjetInfoS4.pdb
+C:\Users\tangu\source\repos\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.csprojAssemblyReference.cache
+C:\Users\tangu\source\repos\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.csproj.CoreCompileInputs.cache
+C:\Users\tangu\source\repos\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.exe
+C:\Users\tangu\source\repos\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.pdb
+C:\Users\Tanguy\Desktop\Projet info\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.csproj.CoreCompileInputs.cache
+C:\Users\Tanguy\Desktop\Projet info\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.exe
+C:\Users\Tanguy\Desktop\Projet info\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.pdb
+C:\Users\Tanguy\Desktop\Projet info\ProjetInfoS4\ProjetInfoS4\bin\Debug\ProjetInfoS4.exe.config
+C:\Users\Tanguy\Desktop\Projet info\ProjetInfoS4\ProjetInfoS4\bin\Debug\ProjetInfoS4.exe
+C:\Users\Tanguy\Desktop\Projet info\ProjetInfoS4\ProjetInfoS4\bin\Debug\ProjetInfoS4.pdb
+C:\Users\Tanguy\Desktop\Projet info\ProjetInfoS4\ProjetInfoS4\obj\Debug\ProjetInfoS4.csprojResolveAssemblyReference.cache
